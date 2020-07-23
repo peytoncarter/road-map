@@ -76,22 +76,26 @@ a:hover {
 h1.welcometo {
   margin-top: 0px;
   padding-bottom: 10px;
+  background-color: rgba(255, 255, 255, 0.75);
 }
 
 h1 {
   background-color: white;
   opacity: 85%;
   padding: 5px;
+  background-color: rgba(255, 255, 255, 0.75);
 }
 p {
   background-color: white;
   opacity: 85%;
   padding: 5px;
+  background-color: rgba(255, 255, 255, 0.75);
 }
 h1, h2, h3 {
   background-color: white;
   opacity: 85%;
   padding: 5px;
+  background-color: rgba(255, 255, 255, 0.75);
 }
 
 h1 { font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
@@ -145,4 +149,8 @@ display: flex;
 
 .jerseypics {
   border: solid white 10px;
+}
+
+map {
+
 }

@@ -5,6 +5,14 @@ body {
 
 /* Home page css */
 
+#homepageinfo {
+  display: block;
+  position: fixed;
+  float: left;
+  width: 20%;
+  margin-left: 10%;
+}
+
 img#eastCoastMap {
   display: block;
   margin-left: 35%;
@@ -15,8 +23,20 @@ img#eastCoastMap {
 
  }
 
- h3#pageDescrip {
+ p#pageDescrip {
+   background-color: white;
+   opacity: 85%;
+   text-align: center;
+   font-size: 25px;
+    font-style: normal;
+    font-variant: normal;
+      font-weight: 400;
+      line-height: 27.5px;
+    padding: 15px;
+ }
 
+ .areaofmap:hover {
+   opacity: 0.2;
  }
 
 
@@ -52,15 +72,21 @@ a:hover {
   color: rgb(175, 60, 60);
 }
 
+h1 {
+  background-color: white;
+  opacity: 85%;
+  padding: 5px;
+}
+
 h1 { font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
   font-size: 40px; font-style: normal;
   font-variant: normal;
   font-weight: 400;
   line-height: 44px; }
   h2 { font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
-    font-size: 14px; font-style: normal;
+    font-size: 24px; font-style: normal;
     font-variant: normal; font-weight: 700;
-    line-height: 15.4px; }
+    line-height: 26.4px; }
   h3 { font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
     font-size: 14px; font-style: normal;
     font-variant: normal; font-weight: 700;

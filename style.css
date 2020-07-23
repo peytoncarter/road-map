@@ -42,14 +42,6 @@ img#eastCoastMap {
 
 /* Home page css above*/
 
-#playlist {
-  display: block;
-  float: right;
-  position: fixed;
-  margin-left: 80%;
-  background-color: white;
-  opacity: 85%;
-}
 
 div.topnav {
   background-color:white;
@@ -153,4 +145,13 @@ display: flex;
 
 map {
 
+}
+
+#playlist {
+  display: block;
+  float: right;
+  position: fixed;
+  margin-left: 80%;
+  background-color: white;
+  opacity: 85%;
 }

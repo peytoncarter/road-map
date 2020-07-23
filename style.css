@@ -3,11 +3,24 @@ body {
   text-align: center;
 }
 
+/* Home page css */
+
 img#eastCoastMap {
   display: block;
+  margin-left: 35%;
   border: white solid 12px;
-  margin-left: 30%;
  }
+
+ h1#pageTitle {
+
+ }
+
+ h3#pageDescrip {
+
+ }
+
+
+/* Home page css above*/
 
 #playlist {
   display: block;
